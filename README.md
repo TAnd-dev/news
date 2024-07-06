@@ -1,7 +1,5 @@
 # Project News
 
-test task for company 'Zavod'
-
 ## Installing
 
 1. clone repository:
